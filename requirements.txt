@@ -1,0 +1,13 @@
+altair
+black
+duckdb
+isort
+click
+nb_black
+pylint
+pytest
+requests
+seaborn
+tqdm
+sklearn
+yellowbrick
